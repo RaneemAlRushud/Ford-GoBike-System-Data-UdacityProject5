@@ -1,4 +1,6 @@
-# Ford-GoBike-System-Data-UdacityProject5
+<h1>  Getting Started 🌩️ </h1>
+
+<img src="./board.svg" alt="" /> 
 
 # (Ford GoBike System Data)
 ## by: RANEEM ALRASHOUD
