@@ -8,6 +8,7 @@
 # Dataset
 ----------------------------------------------------
 
+
 > This dataset for Ford GoBike System year 2017 from [Here](https://s3.amazonaws.com/baywheels-data/index.html).
 The Data set contains trip data of users in San Francisco Bay Area.There are 519,702 rows of trip in the dataset. Most variables are numeric in nature, but the variables user_type,end and start station names are cateogrical in nature.An important variables is the duration of the trip in seconds.
 
